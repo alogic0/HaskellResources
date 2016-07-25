@@ -172,6 +172,7 @@ as.upenn.edu/~cis194/spring13/lectures/10-applicative.html)
 * [Reactive](https://wiki.haskell.org/Reactive)
 * [Functional Reactive Animation](http://conal.net/Fran/)
 * [Simply efficient functional reactivity](http://conal.net/papers/simply-reactive/)
+* [Reflex: Practical Functional Reactive Programming] (https://obsidian.systems/reflex-nyhug/#/step-1)
 
 ## Sample Projects
 * [hFileGenerator](https://github.com/mkrull/hFileGenerator)/
